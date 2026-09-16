@@ -16,6 +16,9 @@ env/
 # Logs
 *.log
 
+#doc files
+*.docx
+
 # Temporary / intermediate labeling files
 AmericanAir_all_candidates.csv
 AmericanAir_final_training_candidates.csv
