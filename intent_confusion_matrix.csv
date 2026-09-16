@@ -1,0 +1,11 @@
+,baggage_problem,checkin_boarding_overbooking,customer_service_complaint,flight_disruption,general_negative,inflight_complaint,loyalty_program,positive_feedback,refund_compensation,seat_upgrade
+baggage_problem,21,1,0,3,0,0,0,0,0,0
+checkin_boarding_overbooking,2,14,1,0,1,0,0,0,0,2
+customer_service_complaint,1,1,12,0,1,0,2,1,1,0
+flight_disruption,0,1,1,25,2,0,1,0,0,0
+general_negative,0,0,1,1,11,0,0,2,0,0
+inflight_complaint,0,0,0,1,1,16,1,0,0,0
+loyalty_program,0,0,1,0,1,0,8,0,0,1
+positive_feedback,0,1,1,1,0,0,0,11,0,4
+refund_compensation,0,0,3,1,1,0,0,0,13,2
+seat_upgrade,1,1,0,0,0,0,1,0,0,17

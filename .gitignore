@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Temporary / intermediate labeling files
+AmericanAir_all_candidates.csv
+AmericanAir_final_training_candidates.csv
+AmericanAir_training_candidates.csv
+AmericanAir_short_messages.csv
+labeled_intents_batch7_8.csv
+labeled_training_batches_9_10.csv
+
+# Old training dataset
+AmericanAir_labeled_training.csv
+
+# Abandoned embedding experiment
+build_embeddings.py
+
+# Evaluation outputs - keep locally for now
+AmericanAir_Golden_Responses.csv
+AmericanAir_LLM_Judge_Results.csv
+AmericanAir_Response_Comparison.csv
+AmericanAir_Historical_Response_Judge.csv
+retrieval_examples.csv
+retrieval_metrics.csv
